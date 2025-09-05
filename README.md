@@ -1,4 +1,4 @@
-# 🛒 FOREVER – E-commerce Web Application (MERN Stack)
+# 🛒 TRENDHAVEN – E-commerce Web Application (MERN Stack)
 
 A fully functional and modern e-commerce platform built using the **MERN stack**.  
 This project demonstrates user authentication, product management, and secure payment integration.
